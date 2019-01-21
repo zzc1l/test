@@ -1,1 +1,2 @@
 file2原始内容
+func2 commit1
